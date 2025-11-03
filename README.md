@@ -93,10 +93,11 @@ Both models use **Gradient Descent** optimization, **custom cost functions**, an
 ---
 
 ##  Visual Outputs
-- `linear_regression_loss.png` → Cost vs Iterations (MSE)
-- `linear_regression_predictions.png` → Actual vs Predicted Student Scores
-- `logistic_regression_loss.png` → Cost vs Iterations (Cross-Entropy)
-- `logistic_regression_confusion_matrix.png` → Confusion Matrix (Heart Disease)
+- [`linear_regression_loss.png`](images/linear_regression_loss.png) → Cost vs Iterations (MSE)  
+- [`linear_regression_predictions.png`](images/linear_regression_predictions.png) → Actual vs Predicted Student Scores  
+- [`logistic_regression_loss.png`](images/logistic_regression_loss.png) → Cost vs Iterations (Cross-Entropy)  
+- [`logistic_regression_confusion_matrix.png`](images/logistic_regression_confusion_matrix.png) → Confusion Matrix (Heart Disease)
+
 
 ---
 
